@@ -1,2 +1,2 @@
 # pygmalion
-bitsy fest binksi game
+binksi game about perfection
